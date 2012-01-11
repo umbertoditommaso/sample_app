@@ -16,6 +16,10 @@ gem 'annotate', '~> 2.4.1.beta'
 
 gem 'factory_girl_rails', '1.0'
 
+gem 'faker', '0.3.1'
+
+gem 'will_paginate', "~> 3.0.2"
+
 # heorku postgresql
 gem 'pg'
 
